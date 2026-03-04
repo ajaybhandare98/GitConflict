@@ -1,1 +1,1 @@
-# GitConflict
+Hello world
